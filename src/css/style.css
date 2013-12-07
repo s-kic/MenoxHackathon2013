@@ -21,6 +21,9 @@ div{
 
 #load{
 	height : 67%;
+	color: #eeeeee;
+	background-color: #888888;
+	background-image: url("../assets/img/asphalt.png");
 }
 
 #load > div{
